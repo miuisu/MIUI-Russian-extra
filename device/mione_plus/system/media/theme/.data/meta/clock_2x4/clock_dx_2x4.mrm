@@ -1,0 +1,29 @@
+{
+  "localId": "clock_dx_2x4",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/clock_dx_2x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock_dx_2x4.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock_dx_2x4.mrc",
+  "hash": "8CBC8E5890735514947F853096145012DC447387",
+  "size": 126957,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "DexClock",
+  "description": null,
+  "author": "MIUI.su (DriffeX)",
+  "designer": "DriffeX",
+  "version": "1.0",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_dx_2x4/preview_clock_0.jpg"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_dx_2x4/preview_clock_0.jpg"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}

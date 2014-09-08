@@ -1,0 +1,29 @@
+{
+  "localId": "clock_2x4",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/clock_2x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock_2x4.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock_2x4.mrc",
+  "hash": "901B3BC746501C3A9145A49A13AB1D9646E9F270",
+  "size": 105277,
+  "updatedTime": 0,
+  "platform": 1,
+  "title": "Перекидные",
+  "description": null,
+  "author": null,
+  "designer": null,
+  "version": "1.2",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_2x4/preview_clock_0.png"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_2x4/preview_clock_0.png"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
